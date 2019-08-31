@@ -22,9 +22,16 @@ I loved implementing applications brining one step closer to safe autonomous dri
 * 2015 FaceNet- A Unified Embedding for Face Recognition and Clustering - Schroff, Kalenichenko, Philbin
 * 2015 A Neural Algorithm of Artistic Style  - Gatsys, Ecker, Bethge
 
+![alt text](images/Convolutional-Neural-Networks-1.png)
 
 ![alt text](images/Convolutional-Neural-Networks-2.png)
 
 ![alt text](images/Convolutional-Neural-Networks-3.png)
 
 ![alt text](images/Convolutional-Neural-Networks-7.png)
+
+# Links:  
+https://www.coursera.org/learn/convolutional-neural-networks
+https://www.coursera.org/specializations/deep-learning  
+https://www.deeplearning.ai  
+https://www.coursera.org/account/accomplishments/verify/RVLXWK9HKTKH  
