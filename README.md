@@ -26,9 +26,7 @@ I loved implementing applications brining one step closer to safe autonomous dri
 
 ![alt text](images/Convolutional-Neural-Networks-2.png)
 
-<p align="center">
 ![alt text](images/Convolutional-Neural-Networks-3.jpg)
-</p>
 
 ![alt text](images/Convolutional-Neural-Networks-4.png)
 
