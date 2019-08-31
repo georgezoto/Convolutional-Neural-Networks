@@ -28,10 +28,12 @@ I loved implementing applications brining one step closer to safe autonomous dri
 
 ![alt text](images/Convolutional-Neural-Networks-3.png)
 
+![alt text](images/Convolutional-Neural-Networks-6.png)
+
 ![alt text](images/Convolutional-Neural-Networks-7.png)
 
 # Links:  
-https://www.coursera.org/learn/convolutional-neural-networks
+https://www.coursera.org/learn/convolutional-neural-networks  
 https://www.coursera.org/specializations/deep-learning  
 https://www.deeplearning.ai  
 https://www.coursera.org/account/accomplishments/verify/RVLXWK9HKTKH  
