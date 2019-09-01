@@ -28,8 +28,6 @@ I loved implementing applications brining one step closer to safe autonomous dri
 <img src="https://github.com/georgezoto/Convolutional-Neural-Networks/blob/master/images/Convolutional-Neural-Networks-2.jpg">
 </p>
 
-![alt text](images/Convolutional-Neural-Networks-2.jpg)
-
 ![alt text](images/Convolutional-Neural-Networks-3.png)
 
 ![alt text](images/Convolutional-Neural-Networks-4.png)
