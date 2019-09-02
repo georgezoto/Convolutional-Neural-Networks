@@ -1,7 +1,7 @@
 # Convolutional-Neural-Networks
 Convolutional Neural Networks repository for all projects and programming assignments of Course 4 of 5 of the Deep Learning Specialization offered on Coursera and taught by Andrew Ng, covering topics such as convolutional neural networks and classical architectures like LeNet-5 (1998), AlexNet (2012), GoogleNet Inception Network (2014), VGG-16 (2015), ResNet (2015), 1x1 Convolutions (2014), OverFeat (2014), R-CNN (2014), Fast R-CNN (2015), Faster R-CNN (2016), YOLO (2016), YOLO9000 (2016), DeepFace (2014), FaceNet (2015) and Neural Style Transfer (2015) that propelled deep learning in new heights.
 
-I loved implementing applications brining one step closer to safe autonomous driving, object detection, accurate face recognition and  automatic reading of radiology images. The highlight of this course was using neural style transfer to generate art, which as you can see below I had a wonderful time exploring using the Google Cloud Platform (GCP). Finally I learned how to apply these algorithms to a variety of image, video, and other 2D or 3D data using Keras and Tensorflow.
+I loved implementing applications brining me one step closer to safe autonomous driving, object detection, accurate face recognition and  automatic reading of radiology images. The highlight of this course was using neural style transfer to generate art, which as you can see below I had a wonderful time exploring using the Google Cloud Platform (GCP). Finally I learned how to apply these algorithms to a variety of image, video, and other 2D or 3D data using Keras and Tensorflow.
 
 **Convolutional Neural Networks and Classical Architectures, see Papers**
 * 1986 Backprop Learning representations by back-propagating errors - Rumelhart, Hinton, Williams
@@ -45,3 +45,4 @@ https://www.coursera.org/learn/convolutional-neural-networks
 https://www.coursera.org/specializations/deep-learning  
 https://www.deeplearning.ai  
 https://www.coursera.org/account/accomplishments/verify/RVLXWK9HKTKH  
+https://www.youtube.com/watch?v=CmomhdylxmQ  
