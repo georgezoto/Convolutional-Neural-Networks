@@ -42,7 +42,8 @@ I loved implementing applications brining me one step closer to safe autonomous 
 
 ![alt text](images/Convolutional-Neural-Networks-10.png)
 
-![alt text](images/Convolutional-Neural-Networks-8.png)
+[![alt text](images/Convolutional-Neural-Networks-8.png)](https://www.youtube.com/watch?v=CmomhdylxmQ)
+
 
 # Links:  
 https://www.coursera.org/learn/convolutional-neural-networks  
